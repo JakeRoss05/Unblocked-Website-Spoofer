@@ -16,4 +16,5 @@ The right to access – You have the right to request copies of your personal da
 
 TahjJSpoofer does not condone the bypassing, evading or subverting of any institutional networks, or any networks security and restrictions.
 
-The title of the website will show up as "Error: 404 Page Not Found" or somthing similar of that nature. This is to make the page not look suspicious to people who can see the title of the tab that contains TahjJSpoofer.
+The TahjJSpoofer website is protected by cloudflare anti DOS/DDOS protection and any attempts to DOS/DDOS the website can be detected through the cloudflare console for TahjJSpoofer and the original IP address will be forwarded to authorities.
+
